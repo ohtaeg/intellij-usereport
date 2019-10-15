@@ -9,7 +9,7 @@ key promotion x 플러그인을 받으면
 
 <br><br>
 ## 편집
----
+
 ### 파일 찾기
 > command + o
 
@@ -39,11 +39,10 @@ key promotion x 플러그인을 받으면
 <br><br>
 
 ## 이동
----
+
 
 ### 왼쪽 프로젝트 탐색기로 이동
 > command + 1 
-<br>
 > 한번 더 누르면 프로젝트 탐색기 Show & Hide
 
 ### 파일 생성
@@ -51,17 +50,19 @@ key promotion x 플러그인을 받으면
 
 ### 탐색기로 이동후 파일 생성
 > command + 1 
-<br>
 > command + n
 
 ### 소스 라인 이동
+> command  + l
+
+### 현재 블럭 옮기기
 > shift + command + 위아래 화살표 방향키
 
 
 <br><br>
 
 ## 메뉴
----
+
 ### preference 메뉴 
 > command + ,
 
@@ -74,7 +75,7 @@ key promotion x 플러그인을 받으면
 <br><br>
 
 ## 메소드
----
+
 
 ### 메소드 정의 진입
 > command + b
@@ -88,4 +89,3 @@ key promotion x 플러그인을 받으면
 <br><br>
 
 ## 디버깅
----
